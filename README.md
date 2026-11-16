@@ -1,4 +1,4 @@
-# macOS-Style Personal Portfolio
+﻿# macOS-Style Personal Portfolio
 
 A personal portfolio built with React that mimics the macOS desktop experience,
 complete with a functional dock, draggable windows, and built-in apps to showcase
@@ -63,3 +63,8 @@ npm run build     # Production build
 - Sidebar widget system (weather, calendar)
 - Wallpaper selection with dynamic and static options
 - Multi-track music player with playlist support
+
+## Links
+
+- Live: https://ompanjwani.vercel.app
+- LinkedIn: https://www.linkedin.com/in/panjwaniom
